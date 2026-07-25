@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**natecia-costa/natecia-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Natécia Costa.
 
-Here are some ideas to get you started:
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade como Desenvolvedora Front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estudo HTML, CSS, JavaScript e React, desenvolvendo projetos para aprimorar minhas habilidades.
+
+## 🚀 Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Git
+- GitHub
+
+## 📚 Atualmente estudando
+
+- React
+- Consumo de APIs
+- Node.js
+
+## 🎯 Objetivo
+
+Conquistar minha primeira oportunidade na área de desenvolvimento Front-end e continuar evoluindo como desenvolvedora.
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/natecia-costa0404
+
+Email: natecia_ilha@hotmail.com
