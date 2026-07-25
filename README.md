@@ -4,7 +4,7 @@ Meu nome é Natécia Costa.
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade como Desenvolvedora Front-end.
 
-Atualmente estudo HTML, CSS, JavaScript e React, desenvolvendo projetos para aprimorar minhas habilidades.
+Atualmente estou aprofundando meus conhecimentos em HTML, CSS, JavaScript e React por meio de estudos e projetos práticos, para aprimorar minhas habilidades.
 
 ## 🚀 Tecnologias
 
@@ -23,7 +23,7 @@ Atualmente estudo HTML, CSS, JavaScript e React, desenvolvendo projetos para apr
 
 ## 🎯 Objetivo
 
-Conquistar minha primeira oportunidade na área de desenvolvimento Front-end e continuar evoluindo como desenvolvedora.
+Conquistar minha primeira oportunidade como Desenvolvedora Front-end e continuar evoluindo por meio de projetos, estudos e novos desafios.
 
 ## 📫 Contato
 
