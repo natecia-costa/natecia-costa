@@ -1,32 +1,40 @@
 # Olá! 👋
 
-Meu nome é Natécia Costa.
+Meu nome é **Natécia Costa**.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade como Desenvolvedora Front-end.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em busca da minha primeira oportunidade na área de **Desenvolvimento Front-end**.
 
-Atualmente estou aprofundando meus conhecimentos em HTML, CSS, JavaScript e React por meio de estudos e projetos práticos, para aprimorar minhas habilidades.
+Tenho interesse em desenvolvimento web e gosto de transformar o que estudo em projetos práticos. Atualmente, estou aprofundando meus conhecimentos em **HTML, CSS, JavaScript e React**, além de continuar desenvolvendo conhecimentos em back-end e bancos de dados.
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e conhecimentos
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Git
-- GitHub
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Node.js
+* MySQL
+* MongoDB
+* Git
+* GitHub
 
 ## 📚 Atualmente estudando
 
-- React
-- Consumo de APIs
-- Node.js
+* React — aprofundamento
+* Consumo de APIs
+* Node.js
+* Desenvolvimento de projetos práticos
+
+## 🌎 Idiomas
+
+* Português — Nativo
+* Inglês — Básico (em estudo)
 
 ## 🎯 Objetivo
 
-Conquistar minha primeira oportunidade como Desenvolvedora Front-end e continuar evoluindo por meio de projetos, estudos e novos desafios.
+Busco minha primeira oportunidade na área de **Desenvolvimento Front-end**, onde possa aplicar meus conhecimentos, contribuir com a equipe e continuar desenvolvendo minhas habilidades por meio de desafios reais.
 
 ## 📫 Contato
 
-LinkedIn: https://www.linkedin.com/in/natecia-costa0404
-
-Email: natecia_ilha@hotmail.com
+* **LinkedIn:** [linkedin.com/in/natecia-costa0404](https://www.linkedin.com/in/natecia-costa0404)
+* **Email:** [natecia_ilha@hotmail.com](mailto:natecia_ilha@hotmail.com)
