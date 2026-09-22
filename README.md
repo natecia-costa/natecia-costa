@@ -29,7 +29,7 @@ Tenho interesse em desenvolvimento web e gosto de transformar o que estudo em pr
 
 Confira meus projetos e conheça um pouco mais sobre meu trabalho:
 
-* **[Acessar meu portfólio]**(https://portfolio-nc-ten.vercel.app/)
+**[Acessar meu portfólio](https://portfolio-nc-ten.vercel.app/#projetos)**
 
 ## 🌎 Idiomas
 
@@ -43,4 +43,4 @@ Busco minha primeira oportunidade na área de **Desenvolvimento Front-end**, ond
 ## 📫 Contato
 
 * **LinkedIn:** [linkedin.com/in/natecia-costa0404](https://www.linkedin.com/in/natecia-costa0404)
-* **Email:** [natecia_ilha@hotmail.com](mailto:natecia_ilha@hotmail.com)
+* **Email:** [natecia2000@gmail.com](mailto:natecia2000@gmail.com)
