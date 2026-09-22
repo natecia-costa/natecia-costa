@@ -25,6 +25,12 @@ Tenho interesse em desenvolvimento web e gosto de transformar o que estudo em pr
 * Node.js
 * Desenvolvimento de projetos práticos
 
+## 🌐 Portfólio
+
+Confira meus projetos e conheça um pouco mais sobre meu trabalho:
+
+* **[Acessar meu portfólio]**(https://portfolio-nc-ten.vercel.app/)
+
 ## 🌎 Idiomas
 
 * Português — Nativo
